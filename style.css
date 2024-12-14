@@ -1,0 +1,59 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url(robot.jpeg);
+	background-repeat: no repeat;
+	background-size: 100%;
+	font-family: Roboto Condensed;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	padding: 5px;
+}
+
+.container {
+	background-color: rgba(0,0,0,0.77);
+}
+
+.put {
+	min-width: 400px;
+}
+
+.search {
+	margin-right: 15px;
+}
+
+.cont {
+	padding: 15px;
+}
+
+.contacting {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
+
+.info {
+	padding: 15px;
+}
+
+.us {
+	text-align: center;
+}
+
+.footer {
+	background-color: white;
+	padding: 15px;
+}
+
+.footer:hover {
+	background-color: grey;
+}
